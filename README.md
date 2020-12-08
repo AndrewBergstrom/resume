@@ -1,2 +1,2 @@
 # resume
-Andrew Bergstrom's Resme
+Andrew Bergstrom's Resume
