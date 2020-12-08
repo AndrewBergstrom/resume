@@ -7,7 +7,7 @@ Andrew Bergstrom
 Career Summary
 ---
 ----
-> Detail oriented Front-End Web Developer with technical ability in coding, extensive\
+> Detail oriented Web Developer with technical ability in coding, extensive\
 > teamwork experience combined with proficient problem solving abilities and\
 > determination to execute goals. Demonstrate excellent communication and teamwork\
 > skills to complete projects in a fast paced, high stress environment.
