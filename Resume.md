@@ -12,3 +12,30 @@ Career Summary
 > determination to execute goals. Demonstrate excellent communication and teamwork\
 > skills to complete projects in a fast paced, high stress environment.
 ----
+
+*Technical Skills*:
+---
+**Browser Based Technologies**:
+
+    JavaScript | HTML5 | CSS | jQuery | Handlebars | Local Storage, Session Storage, IndexedDB | React.js
+
+**Databases**:
+
+    MongoDB | MySQL/MySQL Workbench | Mongoose |
+
+**Frameworks**:
+
+    ZURB Foundation | Bootstrap| Materialize | Express.js |
+
+**API Interaction**:
+
+    API | JSON | AJAX |
+
+**Server Side Development**
+
+    Node.js | Express | User Authentication | Progressive Web Applications | MERN Stack
+
+
+
+
+
