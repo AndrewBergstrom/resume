@@ -13,7 +13,7 @@ Career Summary
 > skills to complete projects in a fast paced, high stress environment.
 ----
 
-*Technical Skills*:
+Technical Skills
 ---
 **Browser Based Technologies**:
 
@@ -31,7 +31,7 @@ Career Summary
 
     API | JSON | AJAX |
 
-**Server Side Development**
+**Server Side Development**:
 
     Node.js | Express | User Authentication | Progressive Web Applications | MERN Stack
 
