@@ -88,7 +88,7 @@ March 2014 – September 2016
 • Performed system testing, and interpretation\
 • Installed software updates for individual restaurants\
 • Created new system layouts for new restaurant openings\
-• Provided financial reports, company records, and organizational plans\
+• Provided financial reports, company records, and organizational plans
 
   ----
 
