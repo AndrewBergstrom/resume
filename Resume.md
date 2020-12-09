@@ -85,8 +85,8 @@ March 2014 – September 2016
 
 • Provided technical support as a POS helpdesk for 48 restaurant systems\
 • Analyzed user requirements and developed functional specifications\
-• Performed system testing, and interpretation\ 
-• Installed software updates for individual restaurants \
+• Performed system testing, and interpretation\
+• Installed software updates for individual restaurants\
 • Created new system layouts for new restaurant openings\
 • Provided financial reports, company records, and organizational plans\
 
