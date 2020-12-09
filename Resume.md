@@ -57,15 +57,17 @@ FlipIt is an interactive app where users can have the convenience of flashcards 
 Developed Back-End, MySql data-base, API controllers, html controllers, and multiple models.
 
 *Tools*: Handlebars, MySql, Materialize, Nodemailer
----
+
+----
 
 **WORK EXPERIENCE**
+---
 *UnCruise Adventures, Seattle WA*                                 			             March 2017 – March 2020
 
 Expedition Guide - Southeast Alaska & Hawaii
 
 
-  • Lead hiking and kayaking expeditions in remote wilderness settings with few or no defined trails, utilizing safety standards and route-finding skills.
+  • Lead hiking and kayaking expeditions in remote wilderness settings with few or no defined trails, utilizing safety standards and route-finding skills.\
   • Work within a cohesive and cooperative team led by the Expedition Leader and Lead Guide, with a heavy emphasis on communication and teamwork.
   • Confidently and competently lead groups of up to 20 guests in the field and on the water, and create an enjoyable experience for guests even when an excursion does not go as planned. Heavy emphasis on customer service, dynamic thinking, and safety.
   • Provide in the field, hands-on interpretation, and thematic, formal onboard presentations that are integrated into a week-long interpretive program, and wildlife narration utilizing interactive tools such as maps, charts, guidebooks, powerpoint, microscopes and spotting scopes to involve the guests.
