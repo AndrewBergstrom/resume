@@ -47,7 +47,7 @@ GuideMe redefines traveling as we know it. Streamlined service that connects mod
 Developed front-end design, messaging, booking, header/footer, and wrote code on multiple components throughout the project. 
 Tools: React, MongoDB , Zurb foundation, Nodemailer, socket io
 
-*FlipIt*
+**FlipIt**
 https://github.com/AychDubya/Flipit | https://flipitstudy.herokuapp.com/ 
 
 FlipIt is an interactive app where users can have the convenience of flashcards in their pocket! Just open the app and start studying.
