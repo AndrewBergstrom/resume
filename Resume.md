@@ -39,7 +39,7 @@ Technical Skills
 Projects
 ---
 
-*GuideMe* 
+**GuideMe** 
 https://guidemedimma.herokuapp.com/ | https://github.com/domjparker/GuideMe-FE & https://github.com/domjparker/GuideMe-BE
 
 GuideMe redefines traveling as we know it. Streamlined service that connects modern day travelers with guides who can provide unique experiences.
