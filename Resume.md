@@ -62,9 +62,9 @@ Developed Back-End, MySql data-base, API controllers, html controllers, and mult
 
 **WORK EXPERIENCE**
 ---
-*UnCruise Adventures, Seattle WA*                                 			             March 2017 – March 2020
+***UnCruise Adventures, Seattle WA***                              			             March 2017 – March 2020
 
-***Expedition Guide - Southeast Alaska & Hawaii***
+*Expedition Guide - Southeast Alaska & Hawaii*
 
 
   • Lead hiking and kayaking expeditions in remote wilderness settings with few or no defined trails, utilizing safety standards and route-finding skills.\
@@ -75,10 +75,10 @@ Developed Back-End, MySql data-base, API controllers, html controllers, and mult
   • Participate in the behind the scenes daily maintenance and programmatic tasks that keep our gear and program running. These tasks include but are not limited to, photo editing, blogging, slideshow creation, gear stowage, repair, cleaning, and organization.
 
 
-*Restaurants Unlimited Inc. Seattle WA*
+***Restaurants Unlimited Inc. Seattle WA***
 March 2014 – September 2016
 
-***Point Of Sales System Programming Specialist***
+*Point Of Sales System Programming Specialist*
 
 • Provided technical support as a POS helpdesk for 48 restaurant systems\
 • Analyzed user requirements and developed functional specifications\
