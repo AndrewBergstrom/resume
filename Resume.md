@@ -62,7 +62,9 @@ Developed Back-End, MySql data-base, API controllers, html controllers, and mult
 
 **WORK EXPERIENCE**
 ---
-***UnCruise Adventures, Seattle WA***                              			             March 2017 – March 2020
+***UnCruise Adventures, Seattle WA***   
+
+March 2017 – March 2020
 
 *Expedition Guide - Southeast Alaska & Hawaii*
 
@@ -76,6 +78,7 @@ Developed Back-End, MySql data-base, API controllers, html controllers, and mult
 
 
 ***Restaurants Unlimited Inc. Seattle WA***
+
 March 2014 – September 2016
 
 *Point Of Sales System Programming Specialist*
