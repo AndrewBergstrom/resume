@@ -74,7 +74,10 @@ Expedition Guide - Southeast Alaska & Hawaii
   • Develop and deliver educational presentations covering environmental science, history, or other relevant topics to the itinerary as assigned by the EL for up to 90 guests.
   • Participate in the behind the scenes daily maintenance and programmatic tasks that keep our gear and program running. These tasks include but are not limited to, photo editing, blogging, slideshow creation, gear stowage, repair, cleaning, and organization.
 
+  ----
+
 **EDUCATION**
+---
 *Full Stack Web Development - University of Washington*			           June 2020 - August 2020
 
 A 12 week intensive program that focuses on multiple front-end languages and libraries such as HTML/CSS/JavaScript, JQuery, Handlebars. On the back-end we learned languages such as: Express, Node.js, User Authentication, API Interaction with AJAX and JSON, MySQL, MongoDB and Mongoose. 
