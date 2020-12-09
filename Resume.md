@@ -64,7 +64,7 @@ Developed Back-End, MySql data-base, API controllers, html controllers, and mult
 ---
 *UnCruise Adventures, Seattle WA*                                 			             March 2017 – March 2020
 
-Expedition Guide - Southeast Alaska & Hawaii
+***Expedition Guide - Southeast Alaska & Hawaii***
 
 
   • Lead hiking and kayaking expeditions in remote wilderness settings with few or no defined trails, utilizing safety standards and route-finding skills.\
