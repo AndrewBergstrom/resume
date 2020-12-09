@@ -40,6 +40,7 @@ Projects
 ---
 
 **GuideMe** 
+
 https://guidemedimma.herokuapp.com/ | https://github.com/domjparker/GuideMe-FE & https://github.com/domjparker/GuideMe-BE
 
 GuideMe redefines traveling as we know it. Streamlined service that connects modern day travelers with guides who can provide unique experiences.
@@ -48,6 +49,7 @@ Developed front-end design, messaging, booking, header/footer, and wrote code on
 Tools: React, MongoDB , Zurb foundation, Nodemailer, socket io
 
 **FlipIt**
+
 https://github.com/AychDubya/Flipit | https://flipitstudy.herokuapp.com/ 
 
 FlipIt is an interactive app where users can have the convenience of flashcards in their pocket! Just open the app and start studying.
