@@ -74,6 +74,19 @@ Developed Back-End, MySql data-base, API controllers, html controllers, and mult
   • Develop and deliver educational presentations covering environmental science, history, or other relevant topics to the itinerary as assigned by the EL for up to 90 guests.\
   • Participate in the behind the scenes daily maintenance and programmatic tasks that keep our gear and program running. These tasks include but are not limited to, photo editing, blogging, slideshow creation, gear stowage, repair, cleaning, and organization.
 
+
+*Restaurants Unlimited Inc. Seattle WA*
+March 2014 – September 2016
+
+***Point Of Sales System Programming Specialist***
+
+• Provided technical support as a POS helpdesk for 48 restaurant systems\
+• Analyzed user requirements and developed functional specifications\
+• Performed system testing, and interpretation\ 
+• Installed software updates for individual restaurants \
+• Created new system layouts for new restaurant openings\
+• Provided financial reports, 
+
   ----
 
 **EDUCATION**
